@@ -4,7 +4,7 @@ export default function Offer() {
   return (
     <section
       id="offer"
-      className="h-screen max-md:h-[80vh] flex flex-col items-center bg-[url('/4.jpeg')] backdrop-blur-[3px] max-md:bg-transparent bg-no-repeat bg-cover max-md:justify-start justify-center gap-10 max-md:gap-2 md:flex-row bg-slate-100 max-md:py-2 py-12 "
+      className="h-screen max-md:h-[80vh] flex flex-col items-center  backdrop-blur-[3px] max-md:bg-transparent bg-no-repeat bg-cover max-md:justify-start justify-center gap-10 max-md:gap-2 md:flex-row bg-slate-100 max-md:py-2 py-12 "
     >
       <div className="w-1/3 max-md:w-full max-md:h-[40%] max-md:pt-20 max-md:text-center max-md:px-2 space-y-2 ">
         <p className="text-sm">Offers and Discounts</p>
